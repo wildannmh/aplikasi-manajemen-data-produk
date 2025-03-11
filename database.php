@@ -5,7 +5,7 @@ class Database {
 
     private function __construct() {
         $host = 'localhost';
-        $dbname = 'belajar_pdo';
+        $dbname = 'manajemen_produk';
         $username = 'root';
         $password = '';
         
